@@ -1,0 +1,47 @@
+Activar Microsoft Office Professional Plus 2010 v14.0.4760.1000 "Technet" Español (Oficial) RETAIL 
+
+1° Instalar el programa Retail con alguno de los siguientes seriales:
+
+6QFDX-PYH2G-PPYFD-C7RJM-BBKQ8
+BDD3G-XM7FB-BD2HM-YK63V-VQFDK
+7K2JD-VV6DF-FVPMF-GMF8Y-MFT9K
+
+2° Terminar la instalación y ejeuctar el archivo "activate.cmd". Luego Reiniciar PC.
+
+3° Iniciar cualquier aplicación de Office (word por ejemplo) y aparecerá una ventana que dice 
+   que instala los archivos de configuración del programa. Luego Reinciar Pc.
+
+4° Una vez reiniciado abrir de nuevo otra aplicación de Office, esperar que el programa termine de configurar
+y luego te pide activación. En ese momento cerrar todas la aplicación de office que estes usando. 
+
+5° Aplicar la medicina: Archivo: "mini-KMS_Activator_v1.1_Office.2010.VL.ENG". (desde aqui el proceso es igual a la activación VL)
+
+Clic en:
+
+a) Install /Unistall KM servicio
+
+En la ventana negra que aparece: Si sale Install tienen que instalarlo con la tecla Y.
+
+                                 Si sale Remover quiere decir que ya esta instalado. Presionar tecla N.
+
+
+b) Active Office 2010 VL
+
+Presionar tecla Y hasta que aparezca el mensaje de 180 dias. Si aparece error, salir de la ventana CMD y 
+hacer clic en:
+
+ - REARM Office 2010.
+
+PResionar tecla Y para reestablecer nuestro periodo Trial. Luego intentar de nuevo la opción B.
+
+c) Comprobar la activación ( Activation Check office 2010)
+
+Ahi podremos observar por cuanto timpo esta activadonuestro producto.
+
+
+Nota. Al instalar con alguna de esas seriales se puede activar llamando por telefono, del siguiente modo:
+Iniciar Word o cualquier producto de la suite offimatica. Nos muestra la opción de activar y seleccionamos 
+activación por telefono, luego seleccionamos pais y region nos aparecerán los telefonos a los que hemos de llamar,
+tranquilos que no nos atiende ninguna persona fisica, es un proceso automatizado de seleccionar opciones,
+Marcamos nuestro ID de Instalación con las teclas del telefono y nos darán una ID de confirmación.
+Recordar que las series sirven para 25 activaciónes vía telefono y 10 por internet un total de 35 activaciones por serie.
